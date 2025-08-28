@@ -1,0 +1,32 @@
+Line 76: ##[NR_CHANNEL][WARN] SysParamChangeCmd Timer Expiry
+Line 81: ##[NR_CHANNEL][WARN] Pcell resource released!!!
+Line 107: ##[NR_CHANNEL] sysparam_cmd_cb() : GOBACK to IDLE {cmd_res(%d - 0:OK/1:NOK), demod_state(%d -> %d), bwp_cause(%d)}
+Line 127: ##[NR_CHANNEL] NrScellConfigCnfCb: num_of_add_scell(%d), num_of_rel_scell(%d), ul_cfg_serv_cell_bitmap(0x%x)
+Line 131: ##[NR_CHANNEL] scell_rel_list and scell_add_list are NULL. Do nothing
+Line 137: ##[NR_CHANNEL] NrScellConfigCnfCb: Release scell is done. Scell Add Config should be processed(%d)
+Line 191: ##[NR_CHANNEL] PhyChangeInfoCmdCb()
+Line 211: ##[NR_CHANNEL] UpdateUlRankInfoCb()
+Line 230: ##[NR_CHANNEL] ChangePcellTxPathCb:: req_tx_mode(%d), domain_type(%d)
+Line 251: ##[NR_CHANNEL] PhyTxReleaseCb:: mode_chg_type(%d), domain_type(%d)
+Line 263: ##[NR_CHANNEL] PhyTxReleaseCb:: invalid mode_chg_type(%d)
+Line 284: ##[NR_CHANNEL] PhyTxResumeCb:: mode_chg_type(%d), domain_type(%d), event_state(%d)
+Line 294: ##[NR_CHANNEL][SKIP] RECV_MSG(TX_RESUME_CNF): type(%d), domain_type(%d)
+Line 319: ##[NR_CHANNEL] Invalid Scell Config - NrScellCfgCnfFailure: on_going_proc(0x%x)
+Line 581: ##[NR_CHANNEL] Build_SYS_PARAM_CHANGE_NR_CMD: SSB location is out of BWP(%d)
+Line 632: ##[NR_CHANNEL] Build_SYS_PARAM_CHANGE_NR_CMD: Invalid Event(%d)
+Line 640: ##[NR_CHANNEL] Build_SYS_PARAM_CHANGE_NR_CMD(PAUSE/REL): rx_path(%d) demod_cc(%d)
+Line 654: ##[NR_CHANNEL] Build_SYS_PARAM_CHANGE_NR_CMD(RESUME): rx_path(%d) demod_cc(%d) bwp_id(0x%x, U4D4) sys_bw(%d) dl_freq(%d) scs(0x%2x, data4/ssb4)
+Line 656: ##[NR_CHANNEL] Build_SYS_PARAM_CHANGE_NR_CMD(RESUME): bwp_with_ssb(%d), ssb_sc_offset(%d) fft_sc_offset(%d), ul_freq(%d), ul_bw(%d), center_sc_offset(%d)
+Line 660: ##[NR_CHANNEL] Invalid CmdInfo(%d)
+Line 668: ##[NR_CHANNEL] Build_SYS_PARAM_CHANGE_NR_CMD: num_of_act_scell(%d)
+Line 687: ##[NR_CHANNEL] Build_SCELL_CONFIG_NR_CMD:: SCellBitmask(0x%x), AddModSCellBitmask(0x%x), RelScellBitMask(0x%x), num_of_add_cell(%d), num_of_rel_cell(%d), domain_type(%d)
+Line 705: ##[NR_CHANNEL] SCELL_CONFIG_NR_CMD:: there is no rel_scell or add_scell or invalid val is received.
+Line 718: ##[NR_CHANNEL] SCELL_CONFIG_NR_CMD(REL)::[%d] rel_scell_idx(%d), rel_serv_cell_idx(%d)
+Line 737: ##[NR_CHANNEL] SCELL_CONFIG_NR_CMD:: Invalid serv_cell_array_idx(%d)
+Line 743: ##[NR_CHANNEL] SCELL_CONFIG_NR_CMD:: Invalid bch_path_cfg_idx with scell_idx(%d)
+Line 817: ##[NR_CHANNEL] SCELL_CONFIG_NR_CMD(ADD):: scell_buf_idx(%d), scell_idx(%d), bwp_scell_idx_msb8/demod_cc_lsb8(0x%4x), scell_scs4/ssb_scs4(0x%x), act_bwp_idx(0x%4x, D8U8), ssb_start_offset(%d), fft_start_offset(%d)
+Line 820: ##[NR_CHANNEL] SCELL_CONFIG_NR_CMD(ADD):: ul_bwp_freq_info(%d, %d, %d), ul_bwp_bw(%d), center_sc_offset(%d)
+Line 847: ##[NR_CHANNEL][WARNING] Fail to send SYSTEM_TIME_INFO_NR_CMD(%d)
+Line 860: ##[NR_CHANNEL] %s :: SCellIdx(%d), FrameBoundaryOffset(%d), ssb_scs(%d)
+Line 871: ##[NR_CHANNEL][WARNING] Fail to send CELL_TIMING_UPDATE_CMD(%d)
+Line 890: ##[NR_CHANNEL][NR_TX] TX_MODE_CHANGE_NR_CMD:: mode_chg_type(%d), num_tx(%d), cur_tx_mode(0x%x), lmac_cmd(%d), mod_idx(%d, %d), spcell_idx(%d), scell_idx(%d), domain_type(%d)

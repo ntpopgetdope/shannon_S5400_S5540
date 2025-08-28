@@ -1,0 +1,52 @@
+Line 64: [MTI_1_NS] Tx NS_INIT_REQ (Attach Type=0x%X, PBM Control=0x%X)
+Line 64: [MTI_0_NS] Tx NS_INIT_REQ (Attach Type=0x%X, PBM Control=0x%X)
+Line 109: [MTI_1_PLMN] PLMN=%X %X %X, RatMode=0x%X
+Line 109: [MTI_0_PLMN] PLMN=%X %X %X, RatMode=0x%X
+Line 174: [MTI_1_NET] Tx NS_NETWORK_REGISTRATION_GET_REQ (Act=%s, ServiceDomain=%s)
+Line 174: [MTI_0_NET] Tx NS_NETWORK_REGISTRATION_GET_REQ (Act=%s, ServiceDomain=%s)
+Line 196: [MTI_1_MISC] Tx NS_SHADE_WAKE_UP_REQ (ScreenStatus=%d)
+Line 196: [MTI_0_MISC] Tx NS_SHADE_WAKE_UP_REQ (ScreenStatus=%d)
+Line 216: [MTI_1_PDN] pApInfo is NULL
+Line 216: [MTI_0_PDN] pApInfo is NULL
+Line 231: [MTI_1_PDN] Tx NS_PDN_GENERAL_REQ (IpcMsgType=%d)
+Line 231: [MTI_0_PDN] Tx NS_PDN_GENERAL_REQ (IpcMsgType=%d)
+Line 295: [MTI_1_NTN] Network isn't started
+Line 295: [MTI_0_NTN] Network isn't started
+Line 328: [MTI_1_NET] Tx NS_DSDS_USER_REQUEST_IND (Status=%d)
+Line 328: [MTI_0_NET] Tx NS_DSDS_USER_REQUEST_IND (Status=%d)
+Line 370: [MTI_1_MISC] Tx NS_DDS_CHANGE_IND (Type=%d, Mode=%d)
+Line 370: [MTI_0_MISC] Tx NS_DDS_CHANGE_IND (Type=%d, Mode=%d)
+Line 426: [MTI_1_NET] Tx NS_CSG_SEL_REQ (CsgSel=0x%X, CsgId=0x%X, ucRatType=0x%X)
+Line 426: [MTI_0_NET] Tx NS_CSG_SEL_REQ (CsgSel=0x%X, CsgId=0x%X, ucRatType=0x%X)
+Line 467: [MTI_1_NET] Tx NS_CSG_SELECTION_MODE_CHANGE_REQ (Selection Mode=0x%X)
+Line 467: [MTI_0_NET] Tx NS_CSG_SELECTION_MODE_CHANGE_REQ (Selection Mode=0x%X)
+Line 550: [MTI_1_SIM] Tx NS_DUALSIM_STATUS_IND (DualSimStatus: %d)
+Line 550: [MTI_0_SIM] Tx NS_DUALSIM_STATUS_IND (DualSimStatus: %d)
+Line 591: [MTI_1_NET] Tx NS_VOLTE_CAPA_SET_REQ (Volte Capa %d)
+Line 591: [MTI_0_NET] Tx NS_VOLTE_CAPA_SET_REQ (Volte Capa %d)
+Line 613: [MTI_1_NET] Tx NS_FORCED_HIGHER_RAT_SEARCH_REQ (status=%d)
+Line 613: [MTI_0_NET] Tx NS_FORCED_HIGHER_RAT_SEARCH_REQ (status=%d)
+Line 637: [MTI_1_NET] Tx NS_TARGET_RAT_RESTORE_IND (status=%d, targetRat=%s)
+Line 637: [MTI_0_NET] Tx NS_TARGET_RAT_RESTORE_IND (status=%d, targetRat=%s)
+Line 666: [MTI_1_MISC] Tx NS_CP_LOW_PWR_MODE_SET_REQ (Mode=0x%X, Cause=0x%X)
+Line 666: [MTI_0_MISC] Tx NS_CP_LOW_PWR_MODE_SET_REQ (Mode=0x%X, Cause=0x%X)
+Line 713: [MTI_1_MISC] Tx NS_RESTRICTION_CTRL_REQ (Rat=0x%X, Level=%d)
+Line 713: [MTI_0_MISC] Tx NS_RESTRICTION_CTRL_REQ (Rat=0x%X, Level=%d)
+Line 736: [MTI_1_MISC] Tx NS_RESTRICTION_REL_REQ (Rat=0x%X, Level=%d)
+Line 736: [MTI_0_MISC] Tx NS_RESTRICTION_REL_REQ (Rat=0x%X, Level=%d)
+Line 758: [MTI_1_NET] Tx NS_WIFI_STATE_SET_REQ (WIFI State = %d[0:act, 1:inact])
+Line 758: [MTI_0_NET] Tx NS_WIFI_STATE_SET_REQ (WIFI State = %d[0:act, 1:inact])
+Line 780: [MTI_1_EMBMS] Tx NS_EMBMS_SERVICE_REQ (state=0x%X)
+Line 780: [MTI_0_EMBMS] Tx NS_EMBMS_SERVICE_REQ (state=0x%X)
+Line 830: [MTI_1_EMBMS] Tx NS_EMBMS_SESSION_REQ (state=0x%X)
+Line 830: [MTI_0_EMBMS] Tx NS_EMBMS_SESSION_REQ (state=0x%X)
+Line 852: [MTI_1_EMBMS] Tx NS_EMBMS_SESSION_LIST_REQ (state=0x%X)
+Line 852: [MTI_0_EMBMS] Tx NS_EMBMS_SESSION_LIST_REQ (state=0x%X)
+Line 915: [MTI_1_AGPS] Tx NS_GPS_FREQUENCY_AIDING_SET_REQ (Enable=0x%X)
+Line 915: [MTI_0_AGPS] Tx NS_GPS_FREQUENCY_AIDING_SET_REQ (Enable=0x%X)
+Line 937: [MTI_1_AGPS] Tx NS_EMERGENCY_CALL_STATUS_CBMODE_SET_REQ (Mode=%d)
+Line 937: [MTI_0_AGPS] Tx NS_EMERGENCY_CALL_STATUS_CBMODE_SET_REQ (Mode=%d)
+Line 983: [MTI_1_NET] Tx NS_NR_URSP_CONFIG_REQ
+Line 983: [MTI_0_NET] Tx NS_NR_URSP_CONFIG_REQ
+Line 1007: [MTI_1_NET] Tx NS_NR_NW_NSSAI_CONFIG_GET_REQ
+Line 1007: [MTI_0_NET] Tx NS_NR_NW_NSSAI_CONFIG_GET_REQ

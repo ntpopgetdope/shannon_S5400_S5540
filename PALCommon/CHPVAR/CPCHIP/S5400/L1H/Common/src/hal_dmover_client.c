@@ -1,0 +1,25 @@
+Line 638: [DMClient] ResetOnwer: group(%d), mov_type(%d)
+Line 655: [DMClient] SetClientInfo: init_type(%d), mbuf_size(0x%04X), buffer_addr(0x%08X), Hldr(0x%08X)
+Line 619: [DMClient] [WARNING]IrqHdlr()
+Line 347: [DMClient][WARNING] %s: Wrong %s(%d)
+Line 365: [DMClient][ERROR]%s() : UNDEFINED CONFIG TYPE[%d]
+Line 371: [DMClient] Config: [%s/%s], init_type(%d), rat(%X)
+Line 410: [DMClient] Enable: init_type(%d), mbuf_size(0x%04X), buffer_addr(0x%08X), WMK(0x%0X), IOCC(0x%0X) Hldr(0x%08X)
+Line 421: [DMClient] Enable Irq: group(%d), irq_src(0x%X)
+Line 424: [DMClient] Enable: cid(%d), owner(%d/0x%X)
+Line 427: [DMClient] [FAIL]Enable: cid(%d), owner(%d/0x%X)
+Line 431: [DMClient] [SKIP]Enable: cid(%d), owner(%d/0x%X)
+Line 486: [DMClient] [SUB][WARNING]Enable : Wrong BaseOffset(%d) 0x%x
+Line 489: [DMClient] [SUB]Enable: init_type(%d), mbuf_size(0x%04X), buffer_addr(0x%08X), WMK(0x%0X), IOCC(0x%0X) Hldr(0x%08X)
+Line 499: [DMClient] [SUB]Enable Irq: irq_src(0x%X)
+Line 502: [DMClient] [SUB]Enable: cid(%d), owner(%d/0x%X)
+Line 505: [DMClient] [DMClient][SUB][FAIL]Enable: cid(%d), owner(%d/0x%X)
+Line 544: [DMClient] Disable Irq: group(%d), irq_src(0x%X)
+Line 551: [DMClient] Disable: cid(%d), owner(%d/0x%X)
+Line 554: [DMClient] [SKIP]Disable: cid(%d), owner(%d/0x%X)
+Line 596: [DMClient] [SUB]Disable Irq: irq_src(0x%X)
+Line 603: [DMClient] [SUB]Disable: cid(%d), owner(%d/0x%X)
+Line 606: [DMClient] [SUB][SKIP]Disable: cid(%d), owner(%d/0x%X)
+Line 663: [DMClient] Get Header(group: %d, init_type: %d) is 0x%08X
+Line 666: [DMClient] [WARNING]Get Header(group: %d, init_type: %d) is NULL
+Line 680: [DMClient] [WARNING]Get Cid(group: %d, init_type: %d) is Wrong(%d/%d)

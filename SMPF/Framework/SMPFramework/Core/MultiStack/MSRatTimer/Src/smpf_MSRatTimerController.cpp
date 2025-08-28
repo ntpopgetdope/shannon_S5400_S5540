@@ -1,0 +1,7 @@
+Line 87: MSRatTimerCtrl<Register> : MsDoamin(%d), Allocated SID(0x%X), pRatTimer(0x%X)
+Line 109: MSRatTimerCtrl<DeRegister> success : RequestSID(0x%X)
+Line 114: MSRatTimerCtrl<DeRegister> fail : RequestSID(0x%X)
+Line 170: MSRatTimerCtrl<Handle RatTimer Msg> : Not Support MsgId(%d,%s)
+Line 213: MSRatTimerCtrl<Handle RatTimer Msg> : Empty RougingInfo(0x%X)
+Line 231: MSRatTimerCtrl<Update Active Rat> : nullptr RatTimer instance)
+Line 244: MSRatTimerCtrl<Update Active Rat> : RatTmr_MsDomain(%d), Update_MsDomain(%d), CurRatTmrState(%d)

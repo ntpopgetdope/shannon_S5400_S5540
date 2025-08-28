@@ -1,0 +1,3 @@
+Line 63: [RRM_MSG](BUILD)[%s](MsgGrpId:%d)
+Line 81: BuildIf_L1C_RRM_POS_MEAS_CONFIG_REQ
+Line 87: BuildIf_L1C_RRM_POS_MEAS_RESULT_IND

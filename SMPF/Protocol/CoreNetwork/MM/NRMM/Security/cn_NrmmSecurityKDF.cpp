@@ -1,0 +1,31 @@
+Line 195: [N :MM,%d]  DeriveKAusf
+Line 220: [DumpPriv] KAusf : 
+Line 227: [N :MM,%d]  DeriveCKIKPrime
+Line 259: [DumpPriv] CKPrime : 
+Line 260: [DumpPriv] IKPrime : 
+Line 266: [N :MM,%d]  DeriveKSeaf
+Line 281: [DumpPriv] KSeaf : 
+Line 287: [N :MM,%d]  DeriveKAmf
+Line 303: [DumpPriv] KAmf : 
+Line 309: [D :MM,%d]  DeriveKNasEnc
+Line 311: [DumpPriv] KNasEnc 
+Line 317: [D :MM,%d]  DeriveKNasInt
+Line 319: [DumpPriv] KNasInt 
+Line 326: [N :MM,%d]  DeriveRESAsterisk
+Line 360: [DumpHex] RESAsterisk : 
+Line 365: [N :MM,%d]  DeriveKAmfPrimeFromKAmf
+Line 391: [N :MM,%d]  DeriveKAmfPrimeFromKAsmeHO
+Line 412: [N :MM,%d]  DeriveKAmfPrimeFromKAsmeIdle
+Line 432: [N :MM,%d]  DeriveKAsmePrimeFromKAmfHO
+Line 452: [N :MM,%d]  DeriveKAsmeSrvccPrimeFromKAmf
+Line 466: [DumpHex] pKAsmePrime : 
+Line 473: [N :MM,%d]  DeriveCKIKSrvcc
+Line 490: [DumpHex] DerivedKey : 
+Line 495: [DumpHex] CK : 
+Line 496: [DumpHex] IK : 
+Line 502: [N :MM,%d]  DeriveKAsmePrimeFromKAmfIdle
+Line 592: [N :MM,%d]  DeriveSorMacAusf
+Line 623: [N :MM,%d]  DeriveSorMacUe
+Line 652: [N :MM,%d]  DeriveUpuMacAusf
+Line 677: [N :MM,%d]  DeriveUpuMacUe
+Line 706: [N :MM,%d]  DeriveLTENH

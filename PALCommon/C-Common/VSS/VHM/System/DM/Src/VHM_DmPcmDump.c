@@ -1,0 +1,8 @@
+Line 116: [PCM Tx SE Out] CNT(%d) P(%d/%d)
+Line 124: [PCM Tx INTERFACE] CNT(%d) P(%d/%d)
+Line 133: [PCM Rx JBC In] CNT(%d) P(%d/%d)
+Line 139: [PCM Rx SE In] CNT(%d) P(%d/%d)
+Line 145: [PCM Rx INTERFACE] CNT(%d) P(%d/%d)
+Line 152: [PCM Tx SE NE In] CNT(%d) P(%d/%d)
+Line 157: [PCM Rx SE Out] CNT(%d) P(%d/%d)
+Line 165: [pcm dump] locId(%d), CodecType(%d)

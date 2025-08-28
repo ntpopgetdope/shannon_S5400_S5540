@@ -1,0 +1,26 @@
+Line 88: [5153AP_CCH] CCH datamover Header : nrcch_dci_h_dm_trsf_cfg.reg(0x%x) : sizeofDciDatamoverCc(%d), m_CcIdx(0x%x)
+Line 102: [5133AP_CCH] CCH datamover Dci[doIdx(%d)] : nrcch_dci_d_dm_trsf_cfg.reg(0x%x) : size of NrPdschDciHal_DatamoverStrInfo_t(%d), size of NrPdschDciHal_DatamoverDciResult_t(%d)
+Line 222: [DCCCH] Reconfiguration is ongoing. Do not set CCH.bk_cch_reconfig_flag(0x%x), idx(%d) 
+Line 235: [DCCCH] Do not set PDCCH Configuration - CDRX SLEEP STATE (%d), Temperature(%d), obuf stackmode(%d)
+Line 276: [DCCCH] REG: CORESET0/1 CORESET_CFG0(0x%x)(0x%x), CORESET_CFG2(0x%x)(0x%x), CORESET_BITMAP(0x%x/0x%x), SSID0/1 SS_CFG0(0x%x)(0x%x), SS_MAX_CAND_NUM(0x%x)(0x%x) 
+Line 285: [DCCCH] REG: CORESET2 CORESET_CFG0/CORESET_CFG2/CORESET_BITMAP(0x%x)(0x%x)(0x%x), SSID2 SS_CFG0/SS_MAX_CAND_NUM(0x%x)(0x%x), m_Coreset_On_Bmp(0x%x), monitoringCoresetNum(%d), MonitoringNum_this_slot0123(1/1/1/1)(%d)
+Line 290: [DCCCH] CDRX STATE(%d) change to (%d)
+Line 599: [DCCCH] Do not set PDCCH Configuration - DORMANT BWP
+Line 711: [SP][CC%d][CCH] There is no SearchSpace monitoring for next slot, QsleepCtrlOn(%d), pdcchMonitoringType(%d)
+Line 868: (F)Invalid Periodicity(%d)
+Line 917: Ambiguity RRC param! change dci size m_AmbiguityRRC_MONITOR_STATE(%d) cssrrcCoresetId(%d) ussrrcCoresetId(%d) bundleinfoCurrent(0x%x),bundleInfo_dediSS(0x%x) CurCSra_info1(0x%x),dediCsra_info1(0x%x)
+Line 941: Change Normal monitor nrcch_dci_size(0x%x),m_AmbiguityRRC_MONITOR_STATE(%d)
+Line 955: [DCCCH]SetSearchSpaceInfo: ssId(%d), m_next_slot_idx(%d), m_next_slot_idx_frame(%d), monitoringSlotPeriodicity(%d), Offset(%d), duration(%d), rntiBitmap(0x%X),mon_rntiBitmap_SS(0x%X),ssType(%d), isstartCCEcaldone(%d)
+Line 960: (F)Invalid dci_Formats(%d)
+Line 1058: [DCCCH] PDCCH monitoring type is (%d), rrcSSId(%d), hwssId(%d), rrcCoresetId(%d), hwcoresetId(%d)
+Line 1097: [DCCCH] isMonitoringSlot is FALSE, rrcSSId(%d), hwssId(%d), rrcCoresetId(%d), hwcoresetId(%d)
+Line 1148: [DCCCH] mon_rntiBitmap_SS is 0, rrcSSId(%d), hwssId(%d), rrcCoresetId(%d), hwcoresetId(%d)
+Line 1177: [DCCCH]SetSearchSpaceInfo: ssId(%d) ss01_rnti_on(0x%X) ss0_cfg(0x%X), isSetHashAndTotalCCEhandled(%d)
+Line 1334: [DCCCH]SetHashAndTotalCCE: ssId(%d) coresetId(%d) hash(%d) total_cce(%d) nCI(%d) SearchSpaceBmp(0x%X), nextslot_idx(%d)
+Line 1349: (F)[DCCCH][SetCoresetInfo] Invalid coresetId(%d)
+Line 1610: [DCCCH][SKIP] Reset Coreset_On, coresetId(%d), coresetOn(0x%x,0x%x), interleaved(%d), coresetRB(0x%x), numCCE(%d), overlap(%d), regBundleSize(%d), ssbRB(0x%x), ssbSymBm(0x%x)
+Line 1664: [5133AP_CCH] HWparser_0_1_SetMaxFieldSize fmt0_obuf0(0x%x) fmt0_obuf1(0x%x) fmt0_obuf2(0x%x) fmt0_obuf3(0x%x)
+Line 1716: [5133AP_CCH] HWparser_1_1_SetMaxFieldSize fmt1_obuf0(0x%x) fmt1_obuf1(0x%x) fmt1_obuf2(0x%x) fmt1_obuf3(0x%x)
+Line 1797: [DCCCH] CC0_DCI_COMMON_CTR_0/CC0_DCI_COMMON_CTR_1(0x%x/0x%x), NRCCH_COMMON_FMT1_OBUF_0 ~ 3(0x%x/0x%x/0x%x/0x%x) - Format max field size
+Line 1806: [DCCCH] CC0_DCI_FMNX1_CTR_0/CC0_DCI_FMNX1_CTR_1(0x%x/0x%x), CC0_DCI_FMNX1_OBUF_0 ~ 3(0x%x/0x%x/0x%x/0x%x) - Format current field size
+Line 1026: [DCCCH] NRCCH_SS_MAX_CAND_NUM was 0. Set CandiNum forcely.

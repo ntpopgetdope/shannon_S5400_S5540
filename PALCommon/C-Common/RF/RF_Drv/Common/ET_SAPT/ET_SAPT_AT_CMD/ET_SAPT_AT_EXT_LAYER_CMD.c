@@ -1,0 +1,12 @@
+Line 119: [RF ET][AT CMD] Get PD Power meas count error (max_meas_cnt: %d, valid_meas_cnt:%d)
+Line 190: [RF ET][AT CMD] HSUPA Test command is received err(%d)
+Line 199: [RF ET][AT CMD] Set Init HSUPA command is received err(%d)
+Line 207: [RF ET][AT CMD] Set Tx power command is received err(%d)
+Line 213: [RF ET][AT CMD] Received command to reset tx mode err(%d)
+Line 219: [RF ET][AT CMD] Received command to swap tx err(%d)
+Line 225: [RF ET][AT CMD] Received command to Set PD Power Offset err(%d)
+Line 232: [RF ET][AT CMD] Set TX Manual for TDD Band command is received err(%d)
+Line 241: [RF ET][AT CMD] Set 3G TX Type command is received err(%d)
+Line 258: [RF ET][AT CMD] Get PD Power command is received err(%d)
+Line 270: [RF ET][AT CMD] Get Power / TD Aclr command is received err(%d)
+Line 275: [RF ET][AT CMD] Invalid CMD error %d

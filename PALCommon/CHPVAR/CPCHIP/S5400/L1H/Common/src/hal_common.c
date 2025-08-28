@@ -1,0 +1,5 @@
+Line 110: [COMMON] InitCommon(invalid core id)
+Line 140: [COMMON] InitCommon(invalid core id)
+Line 143: [COMMON] InitCommon(coreId: %d)
+Line 203: [COMMON] SetAntDetectOn(CC%d): on(%d) CC0_INIT_PBCH_MIN_TX_NUM(%d) 
+Line 280: [COMMON] SetSibUnknownOn(CC%d): on(%d)

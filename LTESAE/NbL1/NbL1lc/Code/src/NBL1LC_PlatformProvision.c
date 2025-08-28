@@ -1,0 +1,49 @@
+Line 67: [NB_L1LC] Ext_NBNL1C_GetDmRfBand: rfBand = %d from DMDb
+Line 72: [NB_L1LC] Ext_NBNL1C_GetDmRfBand: rfBand = %d
+Line 91: [NB_L1LC] Ext_NBNL1C_SetDmRfBand: rfBand = %d
+Line 111: [NB_L1LC] Ext_NBNL1C_GetDmTxFreq: txFreq = %d from DMDb
+Line 116: [NB_L1LC] Ext_NBNL1C_GetDmTxFreq: txFreq = %d
+Line 135: [NB_L1LC] Ext_NBNL1C_SetDmTxFreq: txFreq = %d
+Line 155: [NB_L1LC] Ext_NBNL1C_GetDmRxFreq: rxFreq = %d from DMDb
+Line 160: [NB_L1LC] Ext_NBNL1C_GetDmRxFreq: rxFreq = %d
+Line 179: [NB_L1LC] Ext_NBNL1C_SetDmRxFreq: rxFreq = %d
+Line 199: [NB_L1LC] Ext_NBNL1C_GetDmUlEarfcn: ulEarfcn = %d from DMDb
+Line 204: [NB_L1LC] Ext_NBNL1C_GetDmUlEarfcn: ulEarfcn = %d
+Line 223: [NB_L1LC] Ext_NBNL1C_SetDmUlEarfcn: earfcn = %d
+Line 243: [NB_L1LC] Ext_NBNL1C_GetDmDlEarfcn: dlEarfcn = %d from DMDb
+Line 248: [NB_L1LC] Ext_NBNL1C_GetDmDlEarfcn: dlEarfcn = %d
+Line 267: [NB_L1LC] Ext_NBNL1C_SetDmDlEarfcn: earfcn = %d
+Line 288: [NB_L1LC] Ext_NBNL1C_GetDmUlBler: NackCount = %d, TotalCount = %d
+Line 309: [NB_L1LC] Ext_NBNL1C_GetDmDlBler: NackCount = %d, TotalCount = %d
+Line 331: [NB_L1LC] Ext_NBNL1C_GetDmRssi: rssi = %d from DMDb
+Line 339: [NB_L1LC] Ext_NBNL1C_GetDmRssi: rssi = %d
+Line 361: [NB_L1LC] Ext_NBNL1C_GetDmRsrp: rsrp = %d from DMDb
+Line 369: [NB_L1LC] Ext_NBNL1C_GetDmRsrp: rsrp = %d
+Line 391: [NB_L1LC] Ext_NBNL1C_GetDmRsrp: rsrq = %d from DMDb
+Line 399: [NB_L1LC] Ext_NBNL1C_GetDmRsrp: rsrq = %d
+Line 419: [NB_L1LC] Ext_NBNL1C_GetDmSinr: sinr = %d
+Line 439: [NB_L1LC] Ext_NBNL1C_GetDmAntennaID: RxAnt = %d. TxAnt = %d from DMDb
+Line 449: [NB_L1LC] Ext_NBNL1C_GetDmAntennaID: RxAnt = %d. TxAnt = %d
+Line 469: [NB_L1LC] Ext_NBNL1C_GetDmTimingOffset: timingOffset = %d
+Line 489: [NB_L1LC] Ext_NBNL1C_GetDmDCILevel: DC-I = %d from DMDb
+Line 500: [NB_L1LC] Ext_NBNL1C_GetDmDCILevel: DC-I = %d
+Line 520: [NB_L1LC] Ext_NBNL1C_GetDmDCILevel: DC-Q = %d from DMDb
+Line 531: [NB_L1LC] Ext_NBNL1C_GetDmDCILevel: DC-Q = %d
+Line 551: [NB_L1LC] Ext_NBNL1C_GetDmTDPowerLevel: TD power = %d from DMDb
+Line 559: [NB_L1LC] Ext_NBNL1C_GetDmTDPowerLevel: TD power = %d
+Line 579: [NB_L1LC] Ext_NBNL1C_GetDmFreqOffset: freqOffset = %d
+Line 599: [NB_L1LC] Ext_NBNL1C_GetDmTxPwr: txPwr = %d
+Line 619: [NB_L1LC] Ext_NBNL1C_GetDmNumPUSCHs: numPUSCHs = %d
+Line 639: [NB_L1LC] Ext_NBNL1C_GetDmNumPUSCHNacks: numPUSCHNacks = %d
+Line 659: [NB_L1LC] Ext_NBNL1C_GetDmNumPUSCHAcks: numPUSCHAcks = %d
+Line 679: [NB_L1LC] Ext_NBNL1C_GetDmAccPUSCHMcs: accPUSCHMcs = %d
+Line 699: [NB_L1LC] Ext_NBNL1C_GetDmNumPUSCHPmaxLimit: numPUSCHPmaxLimit = %d
+Line 719: [NB_L1LC] Ext_NBNL1C_GetDmNumPUSCHSarLimit: numPUSCHSarLimit = %d
+Line 739: [NB_L1LC] Ext_NBNL1C_GetDmNumMIBCrcFail: numMIBCrcFail = %d
+Line 759: [NB_L1LC] Ext_NBNL1C_GetDmNumSIB1CrcFail: numSIB1CrcFail = %d
+Line 779: [NB_L1LC] Ext_NBNL1C_GetDmNumPDSCHs: numPDSCHs = %d
+Line 799: [NB_L1LC] Ext_NBNL1C_GetDmNumPDSCHAcks: numPDSCHAcks = %d
+Line 819: [NB_L1LC] Ext_NBNL1C_GetDmNumPDSCHNacks: numPDSCHNacks = %d
+Line 839: [NB_L1LC] Ext_NBNL1C_GetDmNumPDSCHAck2Nacks: numPDSCHAck2Nacks = %d
+Line 859: [NB_L1LC] Ext_NBNL1C_GetDmAccPDSCHMcs: accPDSCHMcs = %d
+Line 880: [NB_L1LC] Ext_NBNL1C_GetDmTotalSARLowDuration: SARLowDuration = %d

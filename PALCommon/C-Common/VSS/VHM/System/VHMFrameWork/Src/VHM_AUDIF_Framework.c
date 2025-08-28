@@ -1,0 +1,10 @@
+Line 76: [VHM_Txtrigger] start arg (%x)
+Line 82: [VHM_Txtrigger] TX_TRIGGER_Check_Flag(%d)
+Line 85: [VHM_Txtrigger] Consecutive TX_TRIGGER_Check_Flag(%d)
+Line 90: [VHM_Txtrigger] VHM is not running(%d)
+Line 94: [VHM_Txtrigger] VHM is on fade out(%d)
+Line 124: [VHM_Txtrigger] GSMENC trigger, A-Box State(0x%x)
+Line 134: [VHM_Txtrigger] ENC trigger Done, A-Box State(0x%x)
+Line 154: vhm_send_ipc, data(%d), consumerID(0x%x)
+Line 218: [VSS] VHM_RxTrigger(Sync[%d]), Time(0x%08x)
+Line 241: [VHM] Set_rx_out_pcm

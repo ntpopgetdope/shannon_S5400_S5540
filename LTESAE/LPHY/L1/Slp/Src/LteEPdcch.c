@@ -1,0 +1,21 @@
+Line 367: [EPDCCH] CCH_GetHASH_EPDCCH(0x%x)
+Line 988: (F)EPDCCH_GetQclIdx: CC%d, No matched QCL config ID.
+Line 1466: [EPDCCH] CC(%d) Detected Set(%d) Detected Agg(%d) No. detected PRB(%d) DetectedPRBIdx(%d-%d-%d)
+Line 1510: IPC: EPDCCH Config for CC%d
+Line 1521: valid(%d), subframePatternConfig_setup(%d), start_symbol_setup(%d), StartSymbol_r11(%d), epdcch_set_config_setup(%d), NumOfePdcchconfig(%d), PatternBitMap[4](%d)
+Line 1526: valid(%d), BitSize(%d), pattern_type(%d), PatternBitMap[0](%d), PatternBitMap[1](%d), PatternBitMap[2](%d), PatternBitMap[3](%d)
+Line 1535: [0]setConfigId(%d), transmissionType(%d), numberPRB_Pairs(%d), resourceBlockAssignment[0](0x%x), resourceBlockAssignment[1](0x%x), resourceBlockAssignment[2](0x%x), CalcResourceBlock[0](%d)
+Line 1544: CalcResourceBlock[1](%d), CalcResourceBlock[2](%d), CalcResourceBlock[3](%d), CalcResourceBlock[4](%d), CalcResourceBlock[5](%d), CalcResourceBlock[6](%d), CalcResourceBlock[7](%d)
+Line 1550: dmrs_ScramblingSeqInt(%d), pucch_ResourceStartOffset(%d), pdsch_re_mapping_qcl_config_id_setup(%d), pdsch_RE_mappingQCL_configId(%d)
+Line 1559: [1]setConfigId(%d), transmissionType(%d), numberPRB_Pairs(%d), resourceBlockAssignment[0](%d), resourceBlockAssignment[1](%d), resourceBlockAssignment[2](%d), CalcResourceBlock[0](%d)
+Line 1568: CalcResourceBlock[1](%d), CalcResourceBlock[2](%d), CalcResourceBlock[3](%d), CalcResourceBlock[4](%d), CalcResourceBlock[5](%d), CalcResourceBlock[6](%d), CalcResourceBlock[7](%d)
+Line 1574: dmrs_ScramblingSeqInt(%d), pucch_ResourceStartOffset(%d), pdsch_re_mapping_qcl_config_id_setup(%d), pdsch_RE_mappingQCL_configId(%d)
+Line 1698: [EPDCCH] Release CC(%d)
+Line 1747: [EPDCCH] atti(%d), bitsize(%d), tti_pos(%d), bitmap_word(%d), bitmap_bit(%d), pattern_bitmap[bitmap_word](0x%x), epdcch_exist(%d)
+Line 1889: [EPDCCH] (F)Invalid cc_idx : %d
+Line 1917: [EPDCCH] tti_bitmap(0x%x): tti_pos(%d), bitsize(%d), bitWord(%d)
+Line 1118: [EPDCCH] start_symbol(%d)
+Line 1167: [EPDCCH] number of valid REs in a PRB is (%d), m_EPDCCH_RE_Num(%d), cp_type/n_antP(%04d), mbsfn_sf(%d), m_CRS_Num(%d), m_DMRS_Num(%d), start_symbol/hw_cfi(%04d)
+Line 1244: [EPDCCH] CASE[0/1] : (%d/%d)
+Line 521: (F)Invalid epdcch_set_num : %d
+Line 884: (F) Invalid cc_idx(%d) of EPDCCH_CalStartECCE

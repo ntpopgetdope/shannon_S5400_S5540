@@ -1,0 +1,40 @@
+Line 213: CSI_ConfigIntialize: pmi_offset(%d)
+Line 214: [tmp] csi_rs_ce_decimation fixed. correlation bit reduction fixed
+Line 254: CSI_ConfigIntialize: Clear CSI_DATAMOVER_INFO. core_idx(%d)
+Line 345: CSI_GetBwPartIdx: BWP_IDX calculation for invalid PCR. cc_idx(%d), proc_idx(%d), set_idx(%d), atti(%d)
+Line 613: (F) Subframe set configuration exist, but no CQI,PMI,RI config index. (R10)
+Line 657: (F) Subframe set configuration exist, but no CQI,PMI,RI config index. (R11)
+Line 878: [CSI_SetConfig] cc_idx(%d), valid(%d), acr_mode(%d,%d), acr_trg(0x%x,0x%x), pdsch_ofs(%d), simul_anc(%d), pmi_ri_rpt(%d), mask(%d)
+Line 891: [CSI_SetConfig] pcr_en(%d), cfg_idx(%d,%d,%d)(%d,%d,%d), sb(%d), submode(%d), prd_factor(%d)
+Line 913: (F) CSI config: invalid subframe pattern. length(%d,%d)
+Line 1100: CSI - add reconfig flag (CC%d), 0x%X + 0x%X -> 0x%X
+Line 1480: (F) CSI updateparam: invalid number of CRS TX antenna ports. cc_idx(%d), tx_ant(%d), tm(%d)
+Line 1567: (F) CSI updateparam: invalid CSI-RS/IM id. cc_idx(%d), csirs_id(%d), csiim_id(%d)
+Line 1578: (F) CSI updateparam: TM9. CSI-RS not configured. cc_idx(%d)
+Line 1599: (F) CSI updateparam: invalid number of CRS antenna ports. cc_idx(%d), n_antP(%d)
+Line 1606: (F) CSI updateparam: invalid number of CRS TX antenna ports. cc_idx(%d), tx_ant(%d), ch_meas_rs(%d), tm(%d), n_antP(%d)
+Line 1681: [CSI_UpdateInfo] cc/proc_idx(%02d), csirs,im_idx(%d,%d), pr_rpt(%d), ch,nv_rs(%d,%d), pmi,ri_ind(%d,%d), tx(%d), dual(%d)
+Line 1690: [CSI_UpdateInfo] prd,ofs_cqi(%d,%d), ri(%d,%d), tm(%d), txscheme(%d), mimo(%d)
+Line 1701: [CSI_UpdateInfo] cbsr_pmi1(0x%x,0x%x,0x%x,0x%x), cbsr_pmi2(0x%x,0x%x,0x%x,0x%x), cbsr_ri(0x%x)
+Line 1711: [CSI_UpdateInfo] cbsr_raw(0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x), type(%d)
+Line 1742: (F) SetAperiodicCsiRequest with CSIREQ0. cc_idx(%d), info(0x%x), m3(%d)
+Line 1858: (F) aperiodic request - out of subfrmset1/2. cc_idx(%d), proc_idx(%d), trg_atti(%d)
+Line 1871: (F) aperiodic request - out of subfrmset1/2. cc_idx(%d), proc_idx(%d), trg_atti(%d)
+Line 2076: (F) CSI_Pa: abnormal index. cc/proc/set(%d,%d,%d), pa(%d), offset(%d), tbl_idx(%d,%d)
+Line 2142: FDP_EN=0. Disable CSI schedule.
+Line 2148: 1ST TTI. Disable CSI schedule.
+Line 2157: ULCA_ACT(%d). cell_group(%d), Disable CSI schedule.
+Line 2166: SCG state(%d), Disable CSI schedule.
+Line 2385: (F) CSI_TTI_CONFIG: no matched config. valid(%02d), sn(%06d), bmp(0x%05x,0x%05x), ref_bmp(0x%05x)
+Line 2411: Flush CSI priority table: priority_tb_rpt_31(0x%x)
+Line 2641: [CSI] Skip CSI schedule due to time margin: cg_idx(%d), pcc_idx(%d), str_clk(%d,%d,%d), rtg(%d,%d,%d)
+Line 2684: [warning] DFS_CSI CG: %d csiFlag: %d tti: %d
+Line 2977: CQI_LIMIT was renewed due to SIR condition: test_sim(%d), nbrExist(%d), rsrp_srv,nbr(%d,%d)
+Line 2986: PRIORITY_TB_RPT_0~9(0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x)
+Line 2989: PRIORITY_TB_RPT_10~19(0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x)
+Line 2990: PRIORITY_TB_RPT_20~29(0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x,0x%x)
+Line 2991: PRIORITY_TB_RPT_30~31(0x%x,0x%x), CSI_NR_COMMON(0x%x), NR_HBF_MAX_SET(0x%x), NR_L2_GAT_CLK_CFG(0x%x), NR_HBF_NIGAIN_MON(0x%x)
+Line 3240: (F) CSI config: Ignore CSI process list. cc_idx(%d), trans_mode(%d), setup(%d), num_proc(%d)
+Line 3265: (F) CSI config: invalid RI-reference CSI-process. cc_idx(%d), process(%d), rrcp_id(%d)
+Line 3332: (F) CSI config: invalid periodic-proc-id. cc_idx(%d), process(%d), preiodic-proc-id(%d)
+Line 3340: (F) CSI_SetConfig: CoMP + eICIC. cc_idx(%d), process(%d), idx2_valid(%d), p_c_AndCBSR_r11_cnt(%d)

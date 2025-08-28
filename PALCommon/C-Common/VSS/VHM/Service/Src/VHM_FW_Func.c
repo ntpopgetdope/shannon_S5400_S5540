@@ -1,0 +1,21 @@
+Line 168: [VHM] not defined codec type(%d)
+Line 191: [ABOX_GSM] ToTal Rx Trigger Time(%d), dump_cnt(%d)
+Line 217: [ABOX_GSM] Total_AFBSynchTime(%d), dump_cnt(%d)
+Line 230: [ABOX_GSM] Average Rxtr-AB difference(%d)
+Line 236: [ABOX_GSM] Latch_RxTrDiff(%d), First_RxTrDiff(%d)
+Line 243: [ABOX_GSM] GSMDRIFT_SHM: RXTR_UPDATE(%d), RXTR_DIFF(%d)
+Line 255: [ABOX_GSM] GSMDRIFT_init(%d)(%d)
+Line 263: [VHM] StartMainVoiceLoop
+Line 269: [VHM] DEC PCM UNDERRUN(%d)
+Line 281: [VHM] Ul Trigger was not called(callmode(%d), lostCnt(%d))
+Line 315: [VHM] CPTimestamp syn per 4096frame
+Line 366: [VHM] VoiceFwInit(amrMode:%d, Codec:%d, LBMode:%d)
+Line 437: [VHM] Enc Start(%d): codecMode(%d)
+Line 494: [VHM] Dec Start(%d): decFlag(%d), codecMode(%d), gsmRxFrmType(%d), gsmTxFrmType(%d)
+Line 537: [VHM] vhm_PreprocChCreation Start(%d)
+Line 552: [VHM] VoiceFWEnd Start(%d)
+Line 603: [VHM] not ready to proc ENC(%d)
+Line 648: [VHM] not ready to proc DEC(%d)
+Line 669: [VHM] EncDone(%d): txFrmType(%d), vbrCodecMode(%d), sid(%d)
+Line 729: [VHM] DecDone(%d): evsCoreMode(%d)
+Line 764: [VHM] APTimestamp - APTimestamp_sec[%u], APTimestamp_ms[%u], APTimestamp_us[%u]

@@ -1,0 +1,2 @@
+Line 87: RrmNrPrcdPhyChangeInfo::RRM_RRC_PHY_CHANGE_INFO_REQ_Hdlr
+Line 98: RrmNrPrcdPhyChangeInfo::RRM_L1C_PHY_CHANGE_INFO_CNF_Hdlr

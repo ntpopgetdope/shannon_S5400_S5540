@@ -1,0 +1,51 @@
+Line 47: RrmSubBlkMeasReportCommonConfig::RrmSubBlkMeasReportCommonConfig()
+Line 53: RrmSubBlkMeasReportCommonConfig::~RrmSubBlkMeasReportCommonConfig()
+Line 58: RrmSubBlkMeasReportCommonConfig::Init()
+Line 75:      ::UpdateReportConfigInfo::MeasID(%d) accumulation(%d) ReportConfigChoice(%d)
+Line 110:        #(reportType_reportCGI) reportType(%d), CellForWhichToReportCGI(%d)
+Line 119:        #MeasInfo's reportType is not valid
+Line 137:        #UpdateReportConfigInfo::Unavailable InterRatType( %d)
+Line 142:        #UpdateReportConfigInfo::Unavailable MeasInfo type(%d)
+Line 244:      ::(reportType_periodical) reportType(%d), RsType(%d), IncludeBeamMeas(%d), MaxReportCells(%d) IncludeCommonLocationInfo(%d)
+Line 245:      ::(reportType_periodical)(ReportQuantityCell) Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 246:      ::(reportType_periodical)(ReportQuantityRsIdx) ReportQuantityRsIdxPresent(%d), Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 247:      ::(reportType_periodical) MaxNrofRsIndexesToReportPresent(%d), MaxNrofRsIndexesToReport(%d) ReportAddNeighMeasPresent(%d)
+Line 297:      ::(reportType_eventTriggered) empty EventIdChoice(%d)
+Line 387:      ::(reportType_eventTriggered)(NRRRCDB_EventId_A%d) TriggerQuantity(%d), ReportOnLeave(%d), ReportAddNeighMeasPresent(%d)
+Line 389:      ::(reportType_eventTriggered) reportType(%d), RsType(%d), IncludeBeamMeas(%d), MaxReportCells(%d) IncludeCommonLocationInfo(%d)
+Line 390:      ::(reportType_eventTriggered)(ReportQuantityCell) Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 391:      ::(reportType_eventTriggered)(ReportQuantityRsIdx) ReportQuantityRsIdxPresent(%d), Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 392:      ::(reportType_eventTriggered) MaxNrofRsIndexesToReportPresent(%d), MaxNrofRsIndexesToReport(%d)
+Line 414:    >>UpdateReportConfigInfo::(NRRRCDB_CondEventId_A3) TriggerQuantity(%d) ReportOnLeave(%d)
+Line 421:    >>UpdateReportConfigInfo::(NRRRCDB_EventId_A5) TriggerQuantity(%d) ReportOnLeave(%d)
+Line 426:    >>UpdateReportConfigInfo::empty EventIdChoice (%d)
+Line 433:      ::(reportType_condTriggerConfig) reportType(%d), RsType(%d), IncludeBeamMeas(%d), MaxReportCells(%d)
+Line 437:      ::(reportType_condTriggerConfig) ReportAddNeighMeasPresent(%d), ReportAddNeighMeas(%d)
+Line 448:      ::(reportType_condTriggerConfig) (ReportQuantityCell) accumulation(%d) Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 450:      ::(reportType_condTriggerConfig) (ReportQuantityRsIdx) accumulation(%d) Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 466:    >>[N2L] RrmSubBlkMeasReportCommonConfig::UpdateReportConfigInfo::(reportType_periodical) reportType(%d), RsType(%d), IncludeBeamMeas(%d), MaxReportCells(%d), IncludeCommonLocationInfo(%d)
+Line 472:    >>[N2L] RrmSubBlkMeasReportCommonConfig::UpdateReportConfigInfo::(reportType_periodical) (ReportQuantityCell) Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 490:      ::[N2L] RrmSubBlkMeasReportCommonConfig::UpdateReportConfigInfo::(NRRRCDB_EventId_B1) TriggerQuantity(%d) ReportOnLeave(%d)
+Line 498:      ::[N2L] UpdateReportConfigInfo::(NRRRCDB_EventId_B2) TriggerQuantity(%d) ReportOnLeave(%d)
+Line 502:      ::[N2L] UpdateReportConfigInfo::empty EventIdChoice (%d)
+Line 510:      ::[N2L] UpdateReportConfigInfo::(reportType_eventTriggered) reportType(%d), RsType(%d), IncludeBeamMeas(%d), MaxReportCells(%d), IncludeCommonLocationInfo(%d)
+Line 515:      ::[N2L] UpdateReportConfigInfo::(reportType_eventTriggered) ReportAddNeighMeasPresent(%d), ReportAddNeighMeas(%d)
+Line 521:      ::[N2L] UpdateReportConfigInfo::(reportType_eventTriggered) (ReportQuantityCell) Rsrp(%d), Rsrq(%d), Sinr(%d)
+Line 537: RrmSubBlkMeasReportCommonConfig::UpdateReportConfigInfo::MeasInfo's reportType is not valid
+Line 551:    >>[N2U] UpdateReportConfigInfoInterRATUtra::(reportType_periodical) reportType(%d), MaxReportCells(%d), Rscp(%d), EcNo(%d) IncludeCommonLocationInfo(%d)
+Line 559:      ::[N2U] UpdateReportConfigInfoInterRATUtra::(NRRRCDB_EventId_B1_UtraFdd) ReportOnLeave(%d)
+Line 564:      ::[N2U] UpdateReportConfigInfoInterRATUtra::(NRRRCDB_EventId_B2_UtraFdd) ReportOnLeave(%d)
+Line 568:      ::[N2U] UpdateReportConfigInfoInterRATUtra::empty EventIdChoice (%d)
+Line 575:      ::[N2U] UpdateReportConfigInfoInterRATUtra::(reportType_eventTriggered) reportType(%d), MaxReportCells(%d) IncludeCommonLocationInfo(%d)
+Line 580:      ::[N2U] UpdateReportConfigInfoInterRATUtra::(reportType_eventTriggered) ReportAddNeighMeasPresent(%d), ReportAddNeighMeas(%d)
+Line 585:      ::[N2U] UpdateReportConfigInfoInterRATUtra::(reportType_eventTriggered) (ReportQuantityCell) Rscp(%d), EcNo(%d)
+Line 589:      ::UpdateReportConfigInfo::MeasInfo's reportType is not valid
+Line 607:    >>CliPeriodical - CliType:%d MaxReportCells:%d
+Line 626:      ::CliEventTriggered - CliQuantity:%d(srs_rsrp:%d/cli_rssi:%d) MaxReportCells:%d ReportOnLeave:%d
+Line 630:      ::Unexpected CliEventIdChoice:%d
+Line 667: Unexpected value for rMeasInfo.ReportConfig.ReportConfigNR.Choice(%d)
+Line 687: Unexpected value for rMeasInfo.ReportConfig.ReportConfigInterRAT.Choice(%d)
+Line 698:      ::GetEventTriggeredReportAmount::ReportAmount value(%d), EventTriggeredReportAmount[ReportAmount](%d), numberOfReportsSent(%d)[N2L]
+Line 700:      ::GetEventTriggeredReportAmount::result_s32(%d)[N2L]
+Line 705:      ::GetEventTriggeredReportAmount::error ReportAmount value(%d), MeasID(%d)[N2L]
+Line 714:      ::CheckEventIdForNedc::Choice(%d) EventIdChoice(NR:%d/InterRAT:%d) 

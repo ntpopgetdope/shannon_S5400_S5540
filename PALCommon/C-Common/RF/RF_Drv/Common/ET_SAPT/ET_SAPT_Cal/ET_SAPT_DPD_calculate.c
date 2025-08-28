@@ -1,0 +1,5 @@
+Line 93: [RF ET][CAL][PULSE] FIRST ZERO %d(%d,%d)
+Line 108: [RF ET][CAL][PULSE] PULSE is detected %d(%d,%d)
+Line 121: [RF ET][CAL][PULSE] Second zero is detected %d(%d,%d)
+Line 136: [RF ET][CAL][PULSE] Modulation is detected %d(%d,%d)
+Line 163: [RF ET][CAL][PULSE] Retry %d(%d,%d)

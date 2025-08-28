@@ -1,0 +1,8 @@
+Line 9: [SIT_1_OEM] %s (stack: %d, msgid: %d)
+Line 9: [SIT_0_OEM] %s (stack: %d, msgid: %d)
+Line 13: [SIT_1_OEM] Rx MDHM_APM_TOGGLE_IND(Stack: %d)
+Line 13: [SIT_0_OEM] Rx MDHM_APM_TOGGLE_IND(Stack: %d)
+Line 18: [SIT_1_OEM] Rx MDHM_MODEM_RESET_IND(Stack: %d)
+Line 18: [SIT_0_OEM] Rx MDHM_MODEM_RESET_IND(Stack: %d)
+Line 25: [SIT_1_OEM] Unknown MDHM MsgId(0x%x)
+Line 25: [SIT_0_OEM] Unknown MDHM MsgId(0x%x)

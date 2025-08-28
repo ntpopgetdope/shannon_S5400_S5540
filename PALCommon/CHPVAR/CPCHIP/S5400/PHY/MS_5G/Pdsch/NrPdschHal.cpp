@@ -1,0 +1,2 @@
+Line 572: [PdschHal][LdpcIter] CC/CW/IDD/UnEv/HaITC(2/1/1/1/1)(%d), orgIterNum/2ndCbIdx/2ndIterNum/iterNum(2/2/2/2)(%d), givenClock(%d), oneIterClk/NbDec1/crIdx/newTx(3/3/2/1)(%d), totCb/AckCb/NackCb(3/3/3)(%d),	remainIterN/rdmOutSizeEp(4/5)(%d), maxIterClock(%d), PtrLastRow/addiProcClk/enEvDE2AB(2/2/3)(%d), [SD] mlpOn/q_diff/lcMmse(1/1/1)(%d), adjust/Qmain(4/4)(0x%x)
+Line 618: [DVFS_CPU_LOG] [NR] 2nd parsing done - rtg(%d)

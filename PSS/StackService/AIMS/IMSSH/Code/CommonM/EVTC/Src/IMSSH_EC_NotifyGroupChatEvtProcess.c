@@ -1,0 +1,2 @@
+Line 81: [EC]IMSSH_EC_IMC_NOTI_ProcessConfEvtInfo
+Line 102: [INT] SEND INT_EC_IMC_NOTIFY_IND to IMC

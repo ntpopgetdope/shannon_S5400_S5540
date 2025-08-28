@@ -1,0 +1,11 @@
+Line 39: [SecMgr] Generate HandleSMI
+Line 62: [SecMgr] Generate HandleSMC
+Line 83: [SecMgr] Generate HandleSMC
+Line 104: [SecMgr] Generate IPCnf
+Line 123: [SecMgr] Generate CiphCnf
+Line 144: [SecMgr] Generate SMCL2Ack
+Line 168: [SecMgr] Generate FirstDLIntCheckMsgHandled
+Line 188: [SecMgr] Generate SMIL2Ack
+Line 214: [SecMgr] Generate InitCellUpdate
+Line 235: [SecMgr] Generate EnteringIdle
+Line 255: [SecMgr] Generate CipherErrorInd

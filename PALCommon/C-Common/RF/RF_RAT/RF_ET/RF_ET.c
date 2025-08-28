@@ -1,0 +1,41 @@
+Line 50: [RF ET] RF_Drv_Convert_ET_CC_Type : NR SUB6 SA MODE UL MIMO CC%d->CC%d
+Line 62: [RF ET] RF_Drv_Convert_ET_CC_Type : rat(%d), cc_type(%d -> %d)
+Line 197: [RF ET] ERROR : Init ET SAPT RegCtrl : error code(0x%x)
+Line 211: [RF ET] ERROR : Open ET SAPT Inf Handle : error code(0x%x)
+Line 225: [RF ET] ERROR : Init HSPA ET Gain Tabl : error code(0x%x)
+Line 230: [RF ET] ERROR : Init LTE ET Gain Tabl : error code(0x%x)
+Line 236: [RF ET] ERROR : Init NR SUB6 ET Gain Tabl : error code(0x%x)
+Line 252: [RF ET] ERROR : Get TempTracking Enable : error code(0x%x)
+Line 267: [RF ET] ERROR : Print FBRX mux gain value : error code(0x%x)
+Line 295: [RF ET] ERROR : Set Mainpath Gain : error code(0x%x)
+Line 327: [RF ET][RF SAPT] ET_SAPT_CAL : RF_ET_CAL_NOT_SUPPORTED(Ver: %d)
+Line 335: [RF ET] %s ERROR : Check RF ET DB Version ( ET DB Version[%s] (%d) != cmd_ver (%d) )
+Line 341: [RF ET] %s ERROR : rat[%s] cal_type[%d] error code(0x%x)
+Line 372: [RF ET] %s : %s CC(%d) %s mode(%d)
+Line 384: [RF Drv] %s :: 3G ET Band num change : band_num(%d -> %d)
+Line 425: [RF ET] ET/SAPT_Active : 3G Mode change failed(%d)
+Line 435: [RF ET][RF SAPT] ET/SAPT_Active : Check PA Range map of band(%d)
+Line 445: [RF ET][RF SAPT] ET/SAPT_Active : Check PA Range map of band(%d)
+Line 462: [RF ET] Set_ET_SAPT_TX_Mode : %s mode(%d)
+Line 703: RF_Drv_Get_Temperature_Comp_Val : ET is not supported
+Line 742: [RF ET] Temp Tracking : ET is not supported
+Line 774: [RF ET] ERROR : PD Satge Check : error code(0x%x)
+Line 788: [RF ET] ERROR : PD Satge Check : error code(0x%x)
+Line 804: [RF ET] ERROR : Measure Power using RFIC PD : error code(0x%x)
+Line 839: [RF ET] ERROR : Measure Power IPC : error code(0x%x)
+Line 896: [RF ET] ERROR : Measure Power using RFIC FBRX : error code(0x%x)
+Line 1020: [RF ET] %s : %s %s %s MODE [%d] 
+Line 1052: [RF ET] ET_RFIC_CAL ERROR : Set ET Rfic Gain Cal Index : error code(0x%x)
+Line 1066: [RF ET] ERROR : Execute ET AT CMD : error code(0x%x)
+Line 1082: [RF ET] ERROR : Execute ET NV AT CMD : error code(0x%x)
+Line 1096: [RF ET] ERROR : Execute ET Cal NV RW AT CMD : error code(0x%x)
+Line 1144: [RF ET] RF_Drv_Check_Freq_Edge : rf_band_enum(%d) edge_check(%d) 
+Line 1337: [RF ET] ERROR : Get ET NV INDEX : error code(0x%x)
+Line 1351: [RF ET] ERROR : Get ET Active : error code(0x%x)
+Line 1366: [RF ET] ERROR : Get ET APT Threshold : error code(0x%x)
+Line 1382: [RF ET] ERROR : Get ET SAPT Gain Table : error code(0x%x)
+Line 1491: [RF Drv] RF_Drv_Get_ET_DAC_Mode : TX_ET_DAC_CONFIG[0x%x] ET_DAC_Mode[%d]
+Line 1504: [RF Drv] RF_Drv_Set_ET_DAC : not support ET
+Line 1542: [RF Drv] RF_Drv_Get_ETDac_Path : sys[%s] sm_path[%d] 
+Line 1290: [RF ET][ET_NV_IDX] Get ET BAND NV INDEX (RAT:%d TX:%d virtual_band_num:%d, Band_LAT_IDX:%d)
+Line 1315: [RF ET][ET_NV_IDX] Get ET BAND NV INDEX (RAT:%d TX:%d BAND NUM:%d, RFFE_Path:%d, Band_LAT_IDX:%d)

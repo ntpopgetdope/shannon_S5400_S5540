@@ -1,0 +1,7 @@
+Line 155: [TA][VHM] FW Tx Execution Time: CNT(%d), TxSEProcTime(%d), TxSEEncTrigGap(%d)
+Line 162: [TA][VHM] VSS Execution Time: CNT(%d), EncTrigProcGap(%d), EncTime(%d), ULMargin(%d), DLTransDelay(%d), DecTime(%d), DLMargin(%d)
+Line 165: [TA][VHM] FW Rx Execution Time: CNT(%d), RxTrigSEGap(%d), RxSEProcTime(%d), RxPCMSEGap(%d)
+Line 167: [TA][VHM] TX Execution Time: TxAudioProcTime(%d) TxSE-ENC(UL)(%d)
+Line 169: [TA][VHM] RX Execution Time: RxAudioProcTime(%d) DEC-RxPCM(%d)
+Line 171: [TA][VHM] ABOX INFO: CALL MODE(%d), ABOX_CLK(%d)
+Line 220: [TA][VHM] AP-CP Drift Time: CNT(%d), DriftGap(%d), CPCHKTime(%d), APCHKTime(%d)

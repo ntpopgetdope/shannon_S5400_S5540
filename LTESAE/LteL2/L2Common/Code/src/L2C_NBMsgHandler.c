@@ -1,0 +1,30 @@
+Line 351: [MACRX] LTE_L2LTX_L2LRX_UL_SUSPEND msg alloc failed
+Line 401: Fail pal_Malloc and Fail Send NRPDCP_L2HTX_LTE_UL_CONFIG_REQ
+Line 460: [NB-IoT] Send NRPDCP_L2HTX_LTE_UL_CONFIG_REQ
+Line 466: Fail pal_Malloc and Fail Send NRPDCP_L2HRX_LTE_DL_CONFIG_REQ
+Line 472: [NB-IoT] Send NRPDCP_L2HRX_LTE_DL_CONFIG_REQ
+Line 493: [NB-IoT] Fail pal_Malloc and Fail Send NRPDCP_L2HTX_LTE_UL_SECURITY_CONFIG_REQ
+Line 506: [NB-IoT] Send NRPDCP_L2HTX_LTE_UL_SECURITY_CONFIG_REQ
+Line 511: [NB-IoT] Fail pal_Malloc and Fail Send NRPDCP_L2HRX_LTE_DL_SECURITY_CONFIG_REQ
+Line 518: [NB-IoT] Send NRPDCP_L2HRX_LTE_DL_SECURITY_CONFIG_REQ
+Line 537: [NB-IoT] Fail pal_Malloc and Fail Send NRPDCP_L2HRX_LTE_DL_INTEGRITY_CHECK_REQ
+Line 545: [NB-IoT] Send NRPDCP_L2HRX_LTE_DL_INTEGRITY_CHECK_REQ
+Line 564: [NB-IoT] Fail pal_Malloc and Fail Send NRPDCP_L2HRX_LTE_DL_SECURITY_DATA_FAIL_IND
+Line 569: [NB-IoT] Send NRPDCP_L2HRX_LTE_DL_SECURITY_DATA_FAIL_IND
+Line 587: [LTE_L2TX] Receive NB_LTE_PDCP_DATA_REQ : usRbId[%d] usPacketLength[%d] bCnfRequired[%d] pollReq[%d] pdu_ack_id[%d] trigger_rach[%d]
+Line 622: RB_ID[%d]L2TX PDCP Rxed NB_LTE_PDCP_SECURITY_DATA_REQ Msg
+Line 626: Fail pal_Malloc and Fail Send NRPDCP_L2HTX_LTE_SRB_DATA_REQ
+Line 675: Fail pal_Malloc and Fail Send NRPDCP_L2HTX_LTE_UL_BEARER_RESUME_REQ
+Line 681: [NB-IoT] Send NRPDCP_L2HTX_LTE_UL_BEARER_RESUME_REQ
+Line 687: Fail pal_Malloc and Fail Send NRPDCP_L2HRX_LTE_DL_BEARER_RESUME_REQ
+Line 693: [NB-IoT] Send NRPDCP_L2HRX_LTE_DL_BEARER_RESUME_REQ
+Line 730: LTE_SendL2CMsgToNBRRC : pal_MsgSendTo Fail msgid[%x] iNumMsg(%d)!!!
+Line 764: Fail LTE_SendL2CMsgToNBRRC [%x]
+Line 773: LTE_SendL2CMsgToNBRRC : pal_SmSetEvents Fail msgid[%x]!!!
+Line 815: Fail LTE_SendL2LMsgToNBL1LC [%x], Stack[%d]
+Line 830: [L1TX => NBL1LC] Send NL1C_L2L_TX_REQ
+Line 835: Cannot Allocate NL1C_L2L_TX_REQ
+Line 850: [L1TX => NBL1LC] Send NL1C_L2L_RELEASE_IND
+Line 855: Cannot Allocate NL1C_L2L_RELEASE_IND
+Line 869: [L1TX => NBL1LC] Send NL1C_L2L_RESET_IND
+Line 874: Cannot Allocate NL1C_L2L_RESET_IND

@@ -1,0 +1,27 @@
+Line 87: [DCCCH]NrCellGroupCommonCfgUpdateDcCfg HARQ_ACK_codebook(%d)
+Line 104: [DCCCH]NrCellGroupCommonCfgUpdateDcCfg ps_Offset(%d), sizeDCI_2_6(%d), ps_PositionDCI_2_6(%d), ps_WakeUp(%d)
+Line 264: NrCellGroupCommonCfgUpdateShmForScell: valid(%d)/value(%d)
+Line 364: [RMP LTE-CRS] scellIdx(%d), dedi(%d), present_flag(0x%x), carrierFreqDL(%d), carrierBandwidthDL(%d), nrofCRS-Ports(%d), v-shift(%d), numOfMbsfnSubframeConfig(%d)
+Line 379: [RMP LTE-CRS] mbsfnSubframeConfig[%d]: present_flag(0x%x), period(%d), offset(%d), alloc1(%d,0x%x), alloc2(%d,0x%x)
+Line 454: [RMP LTE-CRS][PDSCH_DEV] scellIdx(%d), dedi(%d), present_flag(0x%x), carrierFreqDL(%d), carrierBandwidthDL(%d), nrofCRS-Ports(%d), v-shift(%d), numOfMbsfnSubframeConfig(%d)
+Line 469: [RMP LTE-CRS][PDSCH_DEV] mbsfnSubframeConfig[%d]: present_flag(0x%x), period(%d), offset(%d), alloc1(%d,0x%x), alloc2(%d,0x%x)
+Line 585: [Cell level RMP][PDSCH_DEV] scellIdx/dedi(%d), idx,num(%02d), id(%d), Bitmaps: %d slot(0x%x), periodIdx,Val(%d,%d), patternH,L(0x%x,0x%x), scs(%d)
+Line 594: [Cell level RMP][PDSCH_DEV] scellIdx/dedi(%d), idx,num(%02d), id(%d) Coreset: %d, scs(%d)
+Line 644: [NrCellGroupPcellCfgUpdateDcCfg] DCCCH, reportTriggerSize:%d
+Line 678: [NrCellGroupPcellCfgUpdateDcCfg] codeBlockGroupFlushIndicator : %d
+Line 805: [TBS_LBRM][RRC_configured] NR_ServingCellConfig_initialDownlinkBWP(%d), NR_BwDownlink_bwp_Dedicated(%d), NR_BWPDownlinkDedi_pdsch_Config(%d), NR_MCFG_IE_CONFIG_FLAG(%d)
+Line 870: [NrCellGroupPcellCfgUpdateSpCfg] pusch_ServingCellConfig_flag(%d), maxMIMO-Layer:%d, cbgti(%d)
+Line 991: [HBF][Beamlock][fromRRC] p_CellGroupPcellConfigDedicated->present_flag (0x%08x), ue_BeamLockFunction (0x%x), p_CellGroupPcellConfigDedicated->ue_BeamLockFunction (0x%x), NrCsiBmCmmCfg.ueBeamLock_enable (%d)
+Line 1041: PhyCellGroupCfg: carrierBandwidth(%d)(%d) subcarrierSpacing(%d)(%d) NumOfScsSpecificCarrier (%d)(%d)
+Line 1104: [PROC][CELL_GROUP] INTRA_TO_BWP: present_flag(0x%X)/(0x%X)/(0x%X)/(0x%X)/(0x%X) xcarrier(0x%X/%d/%d)
+Line 1132: [NR_CELL_GROUP_CFG_PROC] Wrong dmrs_TypeA_Position value ~!
+Line 1535: [PROC][CELLGROUP] present_flag: total/reconfigwithsync/common/dedi (0x%X)(0x%X)(0x%X)(0x%X)
+Line 1721: PhyCellGroupCfg in SIB: carrierBandwidth(%d)(%d) subcarrierSpacing(%d)(%d) NumOfScsSpecificCarrier (%d)(%d)
+Line 1912: (F)ERROR in NrCellGroupScellCfgUpdateDcCfg: sCellIndex(%d)(%d)
+Line 1943: (F)ERROR in NrCellGroupScellCfgUpdatePdschCfg: sCellIndex(%d)(%d)
+Line 1971: [PHYPROC][CELLGROUP] Do not copy SCELL config (Cc/Scell/Array/mCc)(%d/%d/%d/%d) 
+Line 1980: [PHYPROC][BWP] Cmd(%d), NumofScell(%d), ccIndex(%d), sCellIndex(%d), arrayIndex(%d)
+Line 1991: [PHYPROC][CELLGROUP] (I)Do not handle IPC: Cmd(%d)
+Line 2047: [PHYPROC][CELLGROUP] Reset the status_reg(0x%x) related SIB_1
+Line 2105: [CellGroup DM] cellGroup(%d) servCellIndex(%d)
+Line 2151: Error in isr_type(%d)

@@ -1,0 +1,10 @@
+Line 157: [SIL_ConvertIratSchTtpcom] SchResult_p->fnOffset(%d), SchResult_p->NetworkFrNum(%d)
+Line 225: SIL_schIratInitialise()
+Line 245: SIL_AbortSchActivities()
+Line 263: SIL_DestroyIratSchResource for arfcn(%d),address(%x)
+Line 304: SILSCH: Allocating SIL object at address(%x)
+Line 349: [IRATAFC] update ARFCNDATA ARFCN (%d), FreqOffsetHz (%d)
+Line 402: SILSCH: object allocated for arfcn(%d)
+Line 442: No valid data from the arfcn store for ARFCN(%d)
+Line 452: ARFCN(%d), isPcsBandUsed = %d, AGC rssi %d
+Line 502: SILSCH: resource alloc fail for arfcn(%d)

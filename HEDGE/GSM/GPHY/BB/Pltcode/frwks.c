@@ -1,0 +1,8 @@
+Line 260: [FRWKS] FrWksMarkBase 1: frWksMarkedMaskWord(%d),memSpaceBitmaskWord(%d),FrWksMarkBaseCallFunc(%d),frWksArrayPtr[0]/[1]/[2](0x%x)(0x%x)(0x%x)
+Line 273: [FRWKS] FrWksMarkBase 2: frWksMarkedMaskWord(%d),FrWksMarkBaseCallFunc(%d)
+Line 291: [FRWKS] FrWksMarkBase 3: frWksStackInx[selSpace](%d), selSpace(%d),bitmask(%d)
+Line 300: [FRWKS] FrWksMarkBase 3: frWksMarkedForUse[0]/[1]/[2](%d)(%d)(%d),frWksStackInx[0]/[1]/[2](%d)(%d)(%d),inx(%d),frWksArrayPtr(0x%x)
+Line 374: [FRWKS] FrWksAssign 1: frWksStackInx[%d](%d), inx(%d),nElement(%d)
+Line 390: [FRWKS] FrWksAssign 2: frWksStackInx[selSpace](%d), frWksArrayPtr[selSpace](%d), inx(%d),ptr(%x),ptr[%d](%d)
+Line 433: [FRWKS] FrWksFreeToBase 1: frWksMarkedForUse[0]/[1]/[2](%d)(%d)(%d),frWksStackInx[0]/[1]/[2](%d)(%d)(%d),inx(%d),sizePtr(%x),FrWksFreeToBaseCallFunc(%d)
+Line 450: [FRWKS] FrWksFreeToBase 2: frWksMarkedMaskWord(%d),frWksMarkedForUse[0]/[1]/[2](%d)(%d)(%d),frWksStackInx[0]/[1]/[2](%d)(%d)(%d),frWksArrayPtr[0]/[1](%x)(%x)

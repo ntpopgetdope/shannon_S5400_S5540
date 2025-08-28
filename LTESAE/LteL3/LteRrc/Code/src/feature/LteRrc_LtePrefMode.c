@@ -1,0 +1,10 @@
+Line 42: [%s][LTE_PREFER] Check LTE prefer mode: status[%u]
+Line 54: [%s][LTE_PREFER] Check operator mode: status[%u]
+Line 70: [%s][LTE_PREFER] Check customized mode: status[%u], RRC state[%d]
+Line 94: [%s][LTE_PREFER] Paging cycle current[%d], is_scell_null[%d], static[%d], ue[%d]
+Line 108: [%s][LTE_PREFER] Paging cycle current[%d], stored[%d]
+Line 129: [%s][LTE_PREFER] Paging cycle current[%d], nr[%d], threshold[%d]
+Line 141: [%s][LTE_PREFER] Check customized mode: result[%d]
+Line 166: [%s]4G5 redireciton timestamp(ms) now[%llu] last[%llu]
+Line 172: [%s]VOWIFI call ongoing. Not block to NR redirectsince it occurred recently, or endcmodeset = %d.
+Line 202: [%s][LTE_PREFER] Send SIT_SET_LTE_PREF_MODE to turn off LTE prefer: result[%d]
